@@ -3,7 +3,7 @@
 
 
  👍🏾Me encanta la tecnología, soy un entusiasta de la programación y del desarrollo de proyectos orientado al software y la automatización de procesos.
-💪🏽 El aprendizaje continuo y el tratar de entontrar las soluciones a los problemas son mi fuerte. 
+💪🏽 El aprendizaje continuo y el tratar de encontrar las soluciones a los problemas son mi fuerte. 
 
 Habilidades: ASP NET CORE,  C#, SQL, TIA PORTAL
 
